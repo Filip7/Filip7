@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm Filip, Software Engineer and DevOps specialized in Java ecosystem.
 Linux enthusiast.
