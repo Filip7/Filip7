@@ -3,6 +3,8 @@
 I'm Filip, Software Engineer and DevOps specialized in Java ecosystem.
 Linux enthusiast.
 
+Currently brushing my DevOps skills and writing some python and go from time to time.
+
 <!--
 **Filip7/Filip7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
