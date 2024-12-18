@@ -5,6 +5,9 @@ Linux enthusiast.
 
 Currently brushing my DevOps skills and writing some python and go from time to time.
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip7&layout=compact)
+
 <!--
 **Filip7/Filip7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
